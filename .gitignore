@@ -1,0 +1,19 @@
+﻿# Ignore nested git repositories
+**/.git
+
+# Java build outputs
+**/target/
+**/build/
+**/*.class
+
+# Node modules
+**/node_modules/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
